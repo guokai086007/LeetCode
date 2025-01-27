@@ -1,0 +1,6 @@
+﻿  交错字符串.cpp
+G:\VisusalC2022Projects\LeetCode1\交错字符串.cpp(39,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\VisusalC2022Projects\LeetCode1\交错字符串.cpp(42,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\VisusalC2022Projects\LeetCode1\交错字符串.cpp(63,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+G:\VisusalC2022Projects\LeetCode1\交错字符串.cpp(66,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  LeetCode1.vcxproj -> G:\VisusalC2022Projects\LeetCode1\x64\Debug\LeetCode1.exe
